@@ -1,4 +1,7 @@
 # Python
+kokoro0/
+
+Kokoro-TTS-Local/kokoro0
 __pycache__/
 *.py[cod]
 *$py.class
