@@ -3,7 +3,7 @@ import time
 
 # Configuration
 API_URL = "http://localhost:8000/generate-speech/"
-TEST_TEXT = "Hello world! This is a test of the Kokoro TTS API."
+TEST_TEXT = "I am a filfthy fat cat who loves to eat fish all day long."
 SPEED = 1.2  # Test speed (0.5-2.0)
 OUTPUT_FILE = f"test_output_{int(time.time())}.mp3"  # Unique filename with timestamp
 
